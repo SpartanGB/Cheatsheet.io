@@ -1,0 +1,48 @@
+* {
+    font-family: Verdana, Times, serif;
+}
+
+h1 {
+    color: rgb(226, 233, 227);
+    padding: 4rem;
+
+
+}
+
+.heading {
+    color: rgb(202, 231, 221);
+    background-color: rgb(38, 75, 56);
+}
+
+#tag {
+    back
+}
+
+#tag {
+    width: 20%;
+}
+
+td {
+    background-color: rgb(169, 233, 211);
+}
+
+td {
+    padding: 1rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+footer {
+    text-align: left;
+    color: rgb(202, 231, 221);
+    background-color: rgb(8, 66, 39);
+    width: 340px;
+}
+
+table {
+    border: 2px solid rgb(2, 32, 15);
+}
+
